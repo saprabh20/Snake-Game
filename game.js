@@ -10,7 +10,7 @@ function main(currentTime) {
     if(gameOver){
         if(confirm("You Lost! Press Ok to restart.")){
             // window.location= "/DEV/Jquery/Snake";
-            window.location= "https://saprabh20.github.io/Snake-Game/";
+            window.location= "/Snake-Game";
         }
         return;
     }
